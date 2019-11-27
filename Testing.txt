@@ -2,4 +2,5 @@ This is the Coaching Center for Core Course
 
 .Net
 Java
-PHP
+Delphi
+JavaScript
