@@ -8,4 +8,5 @@ JavaScript
 Added Teachers Name
 Rajat sharma
 piyush M
+Amit Verma
 
